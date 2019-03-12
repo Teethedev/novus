@@ -30,5 +30,5 @@ Run the migrations and seeders
 
   Access the Application
  
-    The Book can be accessed on yourURL/public/books
+    The Books can be accessed on yourURL/public/books
 
