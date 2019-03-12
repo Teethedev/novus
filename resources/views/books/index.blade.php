@@ -7,7 +7,7 @@
                 <h2>Novus Test</h2>
             </div>
             <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('books.create') }}"> Create New Book</a>
+                
             </div>
         </div>
     </div>
